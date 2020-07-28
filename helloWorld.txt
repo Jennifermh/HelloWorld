@@ -7,3 +7,5 @@ My favorite color is red :)
 I have a ducky keyboard :)
 
 My room is purple :)
+
+I'm learning what a branch is :)
